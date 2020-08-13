@@ -19,6 +19,8 @@ java -cp .:./stdlib.jar DotGameSimulator N # where NxN is the dimensions of the 
 ```
 
 ### Execution example 
+
+Input:
 ```bash
 java -cp .:./stdlib.jar DotGameSimulator 50
 ```
@@ -26,4 +28,4 @@ java -cp .:./stdlib.jar DotGameSimulator 50
 Output:
 ![](https://github.com/Ghost-8D/dot_game_simulator/blob/master/dot_game_simulation/dot_game_simulator_50.png)
 
-> Note: Each execution will be different as the simulation include some randomness.
+> Note: Each execution will be different as the simulation includes some randomness.
