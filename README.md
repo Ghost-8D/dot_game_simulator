@@ -18,7 +18,7 @@ To execute the program run the following command in terminal (MacOS/Linux) or in
 java -cp .:./stdlib.jar DotGameSimulator N # where NxN is the dimensions of the grid
 ```
 
-### Execution example 
+### Example for a 50x50 grid
 
 Input:
 ```bash
